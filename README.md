@@ -1,5 +1,5 @@
 ### 💫 About Me:
-i # Hi, I'm anon311 👋<br><br>I'm a full-stack web developer and Solidity developer,.Currently learning and exploring new horizons in the blockchain space!<br><br>## 🛠️ Skills<br>- Languages: Python, TypeScript, Solidity, JavaScript<br>- Full-stack Web Development<br>- Blockchain Development<br><br>## 🤝 Open to Contribute<br>I'm free and excited to collaborate on open-source project
+i ## Hi, I'm anon311 👋<br><br>I'm a full-stack web developer and Solidity developer,.Currently learning and exploring new horizons in the blockchain space!<br><br> 🛠️ Skills<br>- Languages: Python, TypeScript, Solidity, JavaScript<br>- Full-stack Web Development<br>- Blockchain Development<br><br>## 🤝 Open to Contribute<br>I'm free and excited to collaborate on open-source project
 
 
 ## 🌐 Socials:
