@@ -1,6 +1,15 @@
 ### 💫 About Me:
-i ## Hi, I'm anon311 👋<br><br>I'm a full-stack web developer and Solidity developer,.Currently learning and exploring new horizons in the blockchain space!<br><br> 🛠️ Skills<br>- Languages: Python, TypeScript, Solidity, JavaScript<br>- Full-stack Web Development<br>- Blockchain Development<br><br>## 🤝 Open to Contribute<br>I'm free and excited to collaborate on open-source project
+## Hi, I'm anon311 👋  
+Full-stack web dev & Solidity nerd, diving deep into blockchain & building cool stuff! 🚀  
+Always curious, always learning, and exploring new tech horizons.
 
+### 🛠️ Skills
+- **Languages:** Python, TypeScript, Solidity, JavaScript  
+- **Development:** Full-stack web apps & smart contracts  
+- **Blockchain:** DApps, DeFi, cross-chain swaps, CCIP experiments  
+
+### 🤝 Open to Collaborate
+Open to contributing to open-source projects, sharing knowledge, and building next-level blockchain stuff together! 💡
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-ayan-315460369) [![X-Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayan_md97732) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdayan1qaz@gmail.com) 
