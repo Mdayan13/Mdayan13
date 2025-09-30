@@ -6,7 +6,7 @@ Always curious, always learning, and exploring new tech horizons.
 ### 🛠️ Skills
 - **Languages:** Python, TypeScript, Solidity, JavaScript  
 - **Development:** Full-stack web apps & smart contracts  
-- **Blockchain:** DApps, DeFi, cross-chain swaps, CCIP experiments  
+
 
 ### 🤝 Open to Collaborate
 Open to contributing to open-source projects, sharing knowledge, and building next-level blockchain stuff together! 💡
