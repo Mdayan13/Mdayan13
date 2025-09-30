@@ -5,7 +5,7 @@ Always curious, always learning, and exploring new tech horizons.
 
 ### 🛠️ Skills
 - **Languages:** Solidity, Python, TypeScript, JavaScript  
-- **Blockchain:** Smart contracts, dApps, Web3.js, Ethers.js, Hardhat, Foundry  
+- **Blockchain:** Smart contracts, dApps, Hardhat, Foundry  
 - **Development:** Full-stack web apps, API integrations, decentralized systems  
 
 ### 🤝 Open to Collaborate
