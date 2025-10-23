@@ -3,10 +3,12 @@
 Full-stack web dev & Solidity nerd, diving deep into blockchain & building cool stuff! 🚀  
 Always curious, always learning, and exploring new tech horizons.
 
-### 🛠️ Skills
-- **Languages:** Solidity, Python, TypeScript, JavaScript  
-- **Blockchain:** Smart contracts, dApps, Hardhat, Foundry  
-- **Development:** Full-stack web apps, API integrations, decentralized systems  
+### 🛠️ Skills  
+- **Languages:** Solidity, Python, TypeScript, JavaScript, SQL, Vyper  
+- **Blockchain:** Smart Contracts, dApps, Hardhat, Foundry, Ethers.js, Web3.js  
+- **Development:** Full-stack Web Apps, Next.js, React.js, API Integrations, Decentralized Systems  
+- **Tools & DevOps:** Docker, Git, DBMS, CI/CD  
+
 
 ### 🤝 Open to Collaborate
 Open-source, DeFi projects, NFTs, Layer 2 solutions — let’s push web3 forward together! 💡
