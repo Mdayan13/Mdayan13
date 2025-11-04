@@ -3,7 +3,7 @@
 - **Languages:** Solidity, Python, TypeScript, JavaScript, SQL, Vyper  
 - **Blockchain:** Smart Contracts, dApps, Hardhat, Foundry, Ethers.js, Web3.js  
 - **Development:** Full-stack Web Apps, Next.js, React.js, API Integrations, Decentralized Systems  
-- **Tools & DevOps:** Docker, Git, DBMS, CI/CD
+- **Tools & DevOps:** Docker, Git, DBMS
 - 
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-ayan-315460369) [![X-Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayan_md97732) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdayan1qaz@gmail.com)
